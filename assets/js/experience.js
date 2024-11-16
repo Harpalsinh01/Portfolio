@@ -6,21 +6,21 @@ const experiencecards = document.querySelector(".experience-cards");
 const exp = [
   {
     title: "Founder of HG VisuaLab",
-    cardImage: "assets/images/experience-page/flipkart.jpg",
+    cardImage: "assets/images/experience-page/HG.jpg",
     place: "HG VisuaLab",
     time: "(March, 2024 - Present)",
     desp: "<li>Founded HG Visualab: 2024</li> <li>Successfully launched and managed 150 projects for clients in various industries.</li> <li>Expertise in logo design, branding, web design, social media graphics.</li> <li>Proven track record of delivering high-quality, visually impactful designs.</li> <li>Collaborated with diverse teams to achieve project goals.</li> <li>Received 136 positive client testimonials.</li>",
   },
   {
     title: "Designer at AG Textile",
-    cardImage: "assets/images/experience-page/gsoc.png",
+    cardImage: "assets/images/experience-page/AG.jpg",
     place: "AG Textile",
     time: "(May, 2020 - Present)",
     desp: "<li> Developed unique and visually appealing designs for a variety of textile-related projects.</li> <li>Contributed to the creation of a strong brand identity for AG Textile.</li> <li>Created visually stunning product photography to showcase AG Textile's fabric offerings.</li> <li>Marketing Materials: Designed marketing materials such as brochures, catalogs, and social media graphics.</li> <li>Stayed up-to-date with industry trends to deliver innovative and effective designs.</li>",
   },
   {
     title: "WeeTech Solution Pvt Ltd Intern",
-    cardImage: "assets/images/experience-page/IIT_Bombay.jpg",
+    cardImage: "assets/images/experience-page/WeeTech.jpg",
     place: "Weetech Solution",
     time: "(July - November, 2023)",
     desp: "<li>Worked on the project clone of YouTube using React Js.</li><li>Master modern web development by building a responsive React JS application consisting of stunning video sections, custom categories, channel pages, and, most importantly, you can play videos straight from your YouTube Clone App!.</li>",
