@@ -7,18 +7,8 @@ const projectcards = document.querySelector(".projectcards");
 const projects = [
   {
     title: "Logo: AG Textile",
-    cardImage: "assets/images/project-page/quiz.jpg",
+    cardImage: "assets/images/project-page/AG.jpg",
     description: "Fashion Logo"
-  },
-  {
-    title: "Logo: Uthkrishtam Fashion",
-    cardImage: "assets/images/project-page/chess.jpg",
-    description: "Fashion Logo"
-  },
-  {
-    title: "Logo: CodeCraft",
-    cardImage: "assets/images/project-page/flappybird.png",
-    description: "Coder Logo"
   },
   {
     title: "YouTube Clone",
@@ -26,8 +16,28 @@ const projects = [
     description: "YouTube Clone using React Js."
   },
   {
+    title: "Logo: Memory Makers",
+    cardImage: "assets/images/project-page/1722611068778.jpeg",
+    description: "Studio Logo"
+  },
+  {
+    title: "Music Application",
+    cardImage: "assets/images/project-page/music.jpg",
+    description: "Built using Java and Android Studio."
+  },
+  {
+    title: "Logo: Fluxdrift",
+    cardImage: "assets/images/project-page/1729685387019.jpeg",
+    description: "Modern Logo"
+  },
+  {
+    title: "E-Learning Platform",
+    cardImage: "assets/images/project-page/learning.png",
+    description: "Learning Platform using PHP."
+  },
+  {
     title: "Logo: VR Cosmetic",
-    cardImage: "assets/images/project-page/recipe.jpg",
+    cardImage: "assets/images/project-page/1725373265237.jpeg",
     description: "Cosmetic Logo"
   },
   {
@@ -37,18 +47,14 @@ const projects = [
   },
   {
     title: "Result Management",
-    cardImage: "assets/images/project-page/tic-tac-toe.png",
+    cardImage: "assets/images/project-page/result.png",
     description:
       "Develop using a React and MongoDB."
   },
-  {
-    title: "E-Learning Platform",
-    cardImage: "assets/images/project-page/book.png",
-    description: "Learning Platform using PHP."
-  },
+
   {
     title: "Quiz App",
-    cardImage: "assets/images/project-page/minesweeper.jpg",
+    cardImage: "assets/images/project-page/quiz.jpg",
     description:
       "Quiz using JavaScipt."
   },
@@ -62,11 +68,7 @@ const projects = [
     cardImage: "assets/images/project-page/movie-recommendation.jpeg",
     description: "Built using Python."
   },
-  {
-    title: "Music Application",
-    cardImage: "assets/images/project-page/music.jpg",
-    description: "Built using Java and Android Studio."
-  },
+
 ];
 
 // function for rendering project cards data
